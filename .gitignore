@@ -1,0 +1,5 @@
+# Python artifacts:
+*.pyc
+
+# Toontown specific files and Directories:
+*.log
